@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f5023</color>
+    <color name="colorPrimaryDark">#1f2711</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="white">#fff</color>
+
+    <color name="color_white">#fff</color>
+    <color name="black">#000</color>
+    <color name="gray">#EBEBEB</color>
+    <color name="light_red">#a00</color>
+    <color name="sky_blue">#7CD4F7</color>
+    <color name="og_header">#466b2f</color>
+    <color name="og_header1">#3f5023</color>
+    <color name="og_header2">#759441</color>
+
+
+    <color name="red">#FFD31313</color>
+    <color name="blue">#FF0099CC</color>
+    <color name="light_black">#4a4a4a</color>
+
+    <color name="dash_reg_gov">#EC7D31</color>
+    <color name="dash_reg_ngo">#A5A5A5</color>
+    <color name="dash_reg_indv">#4472C4</color>
+</resources>
